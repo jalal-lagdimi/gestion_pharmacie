@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1663786266 source:c:\users\jalal lagdimi\desktop\sas\sasv3\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<time.h>
-

@@ -29,7 +29,7 @@ typedef struct{
 
 
 
-         void AjouterNVproduits(){    // ajoutee seul produit
+         void AjouterNVproduits(){    // ajoutee un seul produit
            int i;
            printf(" AJOUTER UN NOUVEAU PRODUIT:\n");
            printf("---------------\n");
@@ -76,7 +76,7 @@ typedef struct{
 
 
 
-        void TRIPARPRIX(){      // lister tous les produits selon l’ordre  décroissant du prix.
+        void TRIPARPRIX(){      // lister tous les produits selon lï¿½ordre  dï¿½croissant du prix.
 
             int i,j;
             produit temp;
@@ -104,7 +104,7 @@ typedef struct{
 
 
 
-      void TRIPARAPLPHA(){   //Lister tous les produits selon l’ordre alphabétique  croissant du nom.
+      void TRIPARAPLPHA(){   //Lister tous les produits selon lï¿½ordre alphabï¿½tique  croissant du nom.
 
           int i,j;
           produit c;
@@ -222,7 +222,7 @@ typedef struct{
 
 
 
-    void  EtatStock(){  //afficher les produits dont la quantité est inférieure à 3.
+    void  EtatStock(){  //afficher les produits dont la quantitï¿½ est infï¿½rieure ï¿½ 3.
         int i;
         int q=0;
         for(i=0;i<Tindix;i++){
